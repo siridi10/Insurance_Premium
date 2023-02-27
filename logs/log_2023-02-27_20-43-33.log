@@ -1,0 +1,6 @@
+[2023-02-27 20:43:33,293]^;WARNING^;88^;_internal.py^;_log()^; * Debugger is active!
+[2023-02-27 20:43:33,300]^;INFO^;88^;_internal.py^;_log()^; * Debugger PIN: 998-459-131
+[2023-02-27 20:43:33,330]^;INFO^;88^;_internal.py^;_log()^; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
+[2023-02-27 20:44:16,267]^;INFO^;88^;_internal.py^;_log()^; * Detected change in 'G:\\DataScience_Projects\\Fourth_Project\\Insurance_Premium\\insurancepre\\exception\\__init__.py', reloading
+[2023-02-27 20:44:16,267]^;INFO^;88^;_internal.py^;_log()^; * Detected change in 'G:\\DataScience_Projects\\Fourth_Project\\Insurance_Premium\\insurancepre\\exception\\__init__.py', reloading
+[2023-02-27 20:44:16,270]^;INFO^;88^;_internal.py^;_log()^; * Detected change in 'G:\\DataScience_Projects\\Fourth_Project\\Insurance_Premium\\insurancepre\\exception\\__init__.py', reloading

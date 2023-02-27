@@ -2,3 +2,4 @@ FLASK
 gunicorn
 sklearn
 pandas
+numpy
