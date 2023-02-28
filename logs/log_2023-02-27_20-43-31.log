@@ -1,4 +1,0 @@
-[2023-02-27 20:43:31,582]^;WARNING^;88^;_internal.py^;_log()^; * Debugger is active!
-[2023-02-27 20:43:31,587]^;INFO^;88^;_internal.py^;_log()^; * Debugger PIN: 998-459-131
-[2023-02-27 20:43:31,615]^;INFO^;88^;_internal.py^;_log()^; * Detected change in 'C:\\ProgramData\\Anaconda3\\Lib\\__pycache__\\stringprep.cpython-37.pyc', reloading
-[2023-02-27 20:43:31,619]^;INFO^;88^;_internal.py^;_log()^; * Running on http://127.0.0.1:5000/ (Press CTRL+C to quit)
